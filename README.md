@@ -69,4 +69,4 @@ There are 2 ways to start recording your control sessions.
 2. In the chat, under the "Record settings" menu, check the record session tab and the current control session will be recorded, or part of it (if you'll uncheck the record tab before the session ends).
 </br></br>
 ![Record Session](https://github.com/Nalikeoz/Bazinga/blob/master/images/record_session.jpg)
-* The recordings are .avi files and saved at a folder called "Recordings".
+* **The recordings are .avi files and saved at a folder called "Recordings".**
