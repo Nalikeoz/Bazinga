@@ -25,15 +25,9 @@ In order to start using Bazinga you'll have to follow the following steps:
 2. Run **Main_server.py**.
 3. Run **GUI.py** to open Bazinga's UI.
 
-### User Types
-In order to use the program's features you'll first have to login into the system.
-There are 2 types of users in our system, a Guest and a Member.</br>
-**Guest:** a Guest gets random remote control credentials (username and password).</br>
-**Member:** a Member can choose his own remote control username but still gets a random control password.
-
 ### Register (as Member):
-In order to register you'll have to enter your login username and password in the
-login page, and click the register button, if there isn't already a user with your username you'll get a successfull
+A Member can choose his own unique remote control username.</br>
+In order to register as Member you'll have to enter login username and password (the username you enter will be your remote control username) in the login page, and click the register button, if there isn't already a user with your username you'll get a successfull
 registration message, otherwise you'll get an error message.
 </br></br>
 ![Successfull Registration](https://github.com/Nalikeoz/Bazinga/blob/master/images/Successfull_Registration.jpg)
@@ -44,10 +38,10 @@ In order to login as Member you'll have to enter your user credentials in the lo
 ![Login](https://github.com/Nalikeoz/Bazinga/blob/master/images/Login.jpg)
 
 ### Login (as Guest):
+A Guest gets random remote control credentials (random control username and password).</br>
 In order to login as Guest all you'll have to do is to press the "Connect as Guest" Button.
 </br></br>
 ![Login](https://github.com/Nalikeoz/Bazinga/blob/master/images/Guest_Login.jpg)
-
 
 ### Remote Control
 In order to control a remote computer, you may enter the other user's control Username and password
