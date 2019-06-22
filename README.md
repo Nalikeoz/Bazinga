@@ -46,8 +46,18 @@ In order to login as Guest all you'll have to do is to press the "Connect as Gue
 ### Remote Control
 In order to control a remote computer, you may enter the other user's control Username and password
 in the relevant inputs in your home page and press the connect button.</br>
-If you've entered correct credentials, a remote control window will appear.
+If you've entered correct credentials, a chat frame and a remote control window will appear.
 </br></br>
 ![Control](https://github.com/Nalikeoz/Bazinga/blob/master/images/Control.jpg)
 </br></br>
 ![Control Display](https://github.com/Nalikeoz/Bazinga/blob/master/images/control_display.jpg)
+
+### File Transfer
+In order to transfer files you'll have to follow the following steps:
+1. Start a Remote control Session, which will start a chat between both sides (controlled and controlled).
+2. Drag a file into the chat (a new download button will appear in the chat).
+3. Press the new file's download button in order to download it.
+4. The downloaded file will be in "Downloaded Files" folder, in the project's folder.
+</br></br>
+![File Transfer](https://github.com/Nalikeoz/Bazinga/blob/master/images/file_transfer.jpg)
+
