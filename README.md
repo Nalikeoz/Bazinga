@@ -57,7 +57,16 @@ In order to transfer files you'll have to follow the following steps:
 1. Start a Remote control Session, which will start a chat between both sides (controlled and controlled).
 2. Drag a file into the chat (a new download button will appear in the chat).
 3. Press the new file's download button in order to download it.
-4. The downloaded file will be in "Downloaded Files" folder, in the project's folder.
+4. The downloaded file will be in a folder called "Downloaded Files".
 </br></br>
 ![File Transfer](https://github.com/Nalikeoz/Bazinga/blob/master/images/file_transfer.jpg)
 
+### Recording Sessions
+There are 2 ways to start recording your control sessions.
+1. In the home page under the "Record settings" menu, check the record session tab and of your next control sessions will be recorded.
+</br></br>
+![Record Sessions](https://github.com/Nalikeoz/Bazinga/blob/master/images/record_all_sessions.jpg)
+2. In the chat, under the "Record settings" menu, check the record session tab and the current control session will be recorded, or part of it (if you'll uncheck the record tab before the session ends).
+</br></br>
+![Record Session](https://github.com/Nalikeoz/Bazinga/blob/master/images/record_session.jpg)
+* The recordings are .avi files and saved at a folder called "Recordings".
