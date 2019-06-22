@@ -25,16 +25,6 @@ In order to start using Bazinga you'll have to follow the following steps:
 2. Run **Main_server.py**.
 3. Run **GUI.py** to open Bazinga's UI.
 
-### Remote Control
-In order to control a remote computer, you may enter the other user's control Username and password
-in the relevant inputs in your home page and press the connect button.
-</br></br>
-![Control](https://github.com/Nalikeoz/Bazinga/blob/master/images/Control.jpg)
-</br>
-If you've entered correct credentials, a remote control window will appear.
-</br></br>
-![Control Display](https://github.com/Nalikeoz/Bazinga/blob/master/images/control_display.jpg)
-
 ### User Types
 In order to use the program's features you'll first have to login into the system.
 There are 2 types of users in our system, a Guest and a Member.</br>
@@ -57,3 +47,13 @@ In order to login as Member you'll have to enter your user credentials in the lo
 In order to login as Guest all you'll have to do is to press the "Connect as Guest" Button.
 </br></br>
 ![Login](https://github.com/Nalikeoz/Bazinga/blob/master/images/Guest_Login.jpg)
+
+
+### Remote Control
+In order to control a remote computer, you may enter the other user's control Username and password
+in the relevant inputs in your home page and press the connect button.</br>
+If you've entered correct credentials, a remote control window will appear.
+</br></br>
+![Control](https://github.com/Nalikeoz/Bazinga/blob/master/images/Control.jpg)
+</br></br>
+![Control Display](https://github.com/Nalikeoz/Bazinga/blob/master/images/control_display.jpg)
