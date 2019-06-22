@@ -70,3 +70,18 @@ There are 2 ways to start recording your control sessions.
 </br></br>
 ![Record Session](https://github.com/Nalikeoz/Bazinga/blob/master/images/record_session.jpg)
 * **The recordings are .avi files and saved at a folder called "Recordings".**
+
+## Encryption
+All of Bazinga's traffic is encrypted with AES based encryption.
+You may change the AES encryption key, by changing the value of the ENC_KEY in the AESCipher.py file.
+</br>
+```python
+ENC_KEY = md5('the AES key').hexdigest()
+```
+
+## Built With
+* [PyCharm](https://www.jetbrains.com/pycharm/) - Working framework.
+* [Python 2.7](https://www.python.org/)         - Programming language.
+
+## Author
+* **Nadav Shamir** - [Nalikeoz](https://github.com/Nalikeoz)
