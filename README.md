@@ -62,8 +62,8 @@ In order to transfer files you'll have to follow the following steps:
 ![File Transfer](https://github.com/Nalikeoz/Bazinga/blob/master/images/file_transfer.jpg)
 
 ### Recording Sessions :video_camera:
-There are 2 ways to start recording your control sessions.
-1. In the home page under the "Record settings" menu, check the record session tab and of your next control sessions will be recorded.
+There are 2 ways to record your remote control sessions.
+1. In the home page, under the "Record settings" menu, check the record session tab and your next control sessions will be recorded.
 </br></br>
 ![Record Sessions](https://github.com/Nalikeoz/Bazinga/blob/master/images/record_all_sessions.jpg)
 2. In the chat, under the "Record settings" menu, check the record session tab and the current control session will be recorded, or part of it (if you'll uncheck the record tab before the session ends).
