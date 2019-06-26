@@ -22,6 +22,9 @@ pip install opencv-python
 ## Usage :video_game:
 In order to start using Bazinga you'll have to follow the following steps:
 1. Open **User.py** with a text editor and change the SERVER_IP const to your main server's local IP address.
+```python
+SERVER_IP = 'localhost' #change my value the main server's IP address.
+```
 2. Run **Main_server.py**.
 3. Run **GUI.py** to open Bazinga's UI.
 
