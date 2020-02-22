@@ -29,7 +29,6 @@ OTHER_MSG_COLOR = (26, 83, 255)  # blue
 class MyApp(wx.App):
     def OnInit(self):
         self.user = User()
-        #self.create_main_frame()
         self.create_login_frame()
         self.run()
         return True
